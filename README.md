@@ -1,4 +1,4 @@
-# Beyzanur ÇİMEN - İlk Web Sayfamız
+#  İlk Web Sayfamız
 
 Bu depo, "Ödev 1 - İlk Web Sayfamızı Oluşturmak" ödevi için hazırlanmış tek sayfalık bir HTML projesidir. Sayfa, HTML5 yapısı ve dahili CSS kullanılarak oluşturulmuştur ve ödevde istenen tüm öğeleri içerir.
 
@@ -20,6 +20,7 @@ Klasör yapısı
 ├─ index.html      # Ana sayfa
 └─ README.md       # Bu dosya
 ```
+
 
 
 
